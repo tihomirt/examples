@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/CDC-1.1%Foundation-1.1"/>
+	<classpathentry kind="lib" path="lib/pdfBox/pdfbox-2.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/selenium/libs/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="lib/selenium/libs/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="lib/selenium/libs/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="lib/selenium/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="lib/selenium/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/selenium/libs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/selenium/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/selenium/libs/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/selenium/libs/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium/libs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/selenium/libs/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/selenium/libs/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/selenium/libs/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="lib/selenium/libs/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="lib/selenium/libs/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="lib/selenium/libs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium/libs/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium/libs/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="lib/selenium/libs/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="lib/selenium/libs/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/selenium/libs/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="lib/selenium/selenium-java-2.53.0-srcs.jar"/>
+	<classpathentry kind="lib" path="lib/selenium/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
