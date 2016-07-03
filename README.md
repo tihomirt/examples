@@ -1,2 +1,3 @@
-# examples
-Example code for blog posts
+# Webdriver examples
+
+This repository contains webdriver examples.
